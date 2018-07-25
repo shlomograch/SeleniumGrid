@@ -1,0 +1,4 @@
+Grid Console: http://10.217.34.66:4444/grid/console
+API: http://10.217.34.66:4444/grid/api/hub
+
+Documentation for configs: https://docs.seleniumhq.org/docs/07_selenium_grid.jsp

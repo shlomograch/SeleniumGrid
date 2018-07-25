@@ -1,0 +1,3 @@
+@echo off
+echo Starting Selenium Server...
+java -jar "C:\Users\sgrach\Desktop\Selenium Standalone Server\selenium-server-standalone-3.9.1.jar" -role node -hub http://10.217.34.66:4444/grid/register/ -browserTimeout 600
